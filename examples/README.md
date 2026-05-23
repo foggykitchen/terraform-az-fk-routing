@@ -65,7 +65,7 @@ These examples intentionally avoid:
 - [Azure Forced Tunneling with Terraform](https://foggykitchen.com/2026/04/09/azure-forced-tunneling-terraform/)
 - [Azure Network Segmentation with Terraform](https://foggykitchen.com/2026/04/10/azure-network-segmentation-terraform/)
 - [FoggyKitchen Azure VNet Module (terraform-az-fk-vnet)](https://github.com/foggykitchen/terraform-az-fk-vnet)
-- [FoggyKitchen Azure VNet Peering Module (terraform-az-fk-vnet-peering)](https://github.com/mlinxfeld/terraform-az-fk-vnet-peering)
+- [FoggyKitchen Azure VNet Peering Module (terraform-az-fk-vnet-peering)](https://github.com/foggykitchen/terraform-az-fk-vnet-peering)
 - [FoggyKitchen Azure NSG Module (terraform-az-fk-nsg)](https://github.com/foggykitchen/terraform-az-fk-nsg)
 - [FoggyKitchen Azure Compute Module (terraform-az-fk-compute)](https://github.com/foggykitchen/terraform-az-fk-compute)
 - [FoggyKitchen Azure Load Balancer Module (terraform-az-fk-loadbalancer)](https://github.com/foggykitchen/terraform-az-fk-loadbalancer)
