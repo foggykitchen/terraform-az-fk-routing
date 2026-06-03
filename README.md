@@ -7,6 +7,8 @@ It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.c
 This module is also part of the **[Azure Advanced Networking with Terraform/OpenTofu – Building Real-World Azure Network Architectures with Reusable Modules (2026 Edition)](https://foggykitchen.com/courses/azure-advanced-networking-terraform-course/)** course.
 In the course, it is used to show how Azure route tables turn basic hub-and-spoke peering into working transit, egress, and private connectivity designs. It provides the routing layer that connects the theory of Azure network flows with practical, reusable Terraform/OpenTofu implementations.
 
+Support expectations are documented in [SUPPORT.md](SUPPORT.md).
+
 ---
 
 ## 🎯 Purpose
